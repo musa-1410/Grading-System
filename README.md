@@ -1,4 +1,7 @@
-# Project Title: Grading System Application
+# Grading System Application
+
+# By:- @musa-1410, @SaroshIshaq, @umer33511
+
 Overview
 The Grading System Application is a robust tool designed to automate the grading process for educators. It provides a flexible solution for calculating and assigning grades based on absolute and relative grading schemes. By leveraging Python's powerful libraries, the application ensures efficiency, accuracy, and user-friendliness.
 
